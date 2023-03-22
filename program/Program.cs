@@ -19,3 +19,11 @@ void CreateOutputArray(string[] OutputArray)
     }
     Console.WriteLine();
 }
+
+string[] array = { "hello_world", "2", "L0L", ":-)" , "123", "^_^", "wiz"};
+
+Console.WriteLine();
+MethodCreateInputArray(array);
+Console.WriteLine();
+CreateOutputArray(array);
+Console.WriteLine();
